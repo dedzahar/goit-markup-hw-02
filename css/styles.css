@@ -1,0 +1,42 @@
+body {
+  color: #212121;
+  background-color: #ffffff;
+}
+
+.list {
+  list-style: none;
+}
+
+.logo-link {
+  color: #000000;
+}
+
+.logo-link > span {
+  color: #2196f3;
+}
+
+.site-nav-list .link {
+  color: #212121;
+}
+
+.addr-nav-list .link {
+  color: #757575;
+}
+
+.site-nav-list .link:hover,
+.site-nav-list .link:focus,
+.addr-nav-list .link:hover,
+.addr-nav-list .link:focus {
+  color: #2196f3;
+}
+
+.item-text {
+  color: #757575;
+}
+
+/* primary color: #212121; */
+/* secondary color: #757575; */
+/* hover color: #2196F3; */
+/* body background-color: #ffffff */
+/* footer, hero background-color: #2F303A; */
+/* team, button background: #F5F4FA; */
